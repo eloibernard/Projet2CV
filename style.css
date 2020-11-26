@@ -260,6 +260,11 @@ span {
 	padding-right: 7%;
 }
 
+footer {
+  	text-align: left;
+  	color: black;
+}
+
 /*responsive*/
 
 @media all and (min-width: 426px) and (max-width: 1024px) {
